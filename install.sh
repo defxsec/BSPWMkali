@@ -106,6 +106,9 @@ sudo cp -v $ruta/.p10k.zsh-root /root/.p10k.zsh
 sudo cp -v $ruta/scripts/whichSystem.py /usr/local/bin/
 sudo cp -v $ruta/scripts/screenshot /usr/local/bin/
 
+# Instalamos Net-tools
+sudo apt install net-tools
+
 # Plugins ZSH
 
 sudo apt install -y zsh-syntax-highlighting zsh-autosuggestions
@@ -136,9 +139,6 @@ rofi-theme-selector
 
 rm -rf ~/github
 rm -rfv $ruta
-
-# Instalamos Net-tools
-sudo apt install net-tools
 
 # Mensaje de Instalado
 

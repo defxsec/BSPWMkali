@@ -62,6 +62,8 @@ sudo git clone --depth=1 https://github.com/romkatv/powerlevel10k.git /root/.pow
 
 mkdir -p ~/.config/rofi/themes
 cp $ruta/rofi/nord.rasi ~/.config/rofi/themes/
+cp $ruta/rofi/rounded-common.rasi ~/.config/rofi/themes/
+cp $ruta/rofi/rounded-purple-dark.rasi ~/.config/rofi/themes/
 
 # Instando lsd
 

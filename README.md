@@ -13,6 +13,16 @@ chmod +x install.sh
 ./install.sh
 ```
 
+# Para la selección de Rofi
+
+````bash
+rofi-theme-selector
+
+![Alt text](image-3.png)
+rounded-purple-dark
+
+Alt-a
+
 Este Script esta diseñado solo para funcionar en Kali Linux
 
 # Shortcuts
@@ -32,4 +42,4 @@ control shift w cerrar pestaña de terminal
 windows + "1,2,3,4,5,6,7,8,9,0" cambiar de escritorio
 windows + shift + "1,2,3,4,5,6,7,8,9,0" cambiar de escritorio la ventana actual al escritorio seleccionado
 ============================================================================================================
-```
+````

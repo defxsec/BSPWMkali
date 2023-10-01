@@ -20,7 +20,7 @@ rofi-theme-selector
 ```
 
 <p align="center">
-    <img src="https://github.com/defxsec/BSPWMkali/blob/master/image-3.png">
+    <img src="https://github.com/defxsec/BSPWMkali/blob/master/image-3.png" alt="" width="100px" height="100px">
 </p>
 
 ```bash

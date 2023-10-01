@@ -15,7 +15,7 @@ chmod +x install.sh
 
 # Para la selección de Rofi
 
-````bash
+```bash
 rofi-theme-selector
 ```
 
@@ -44,4 +44,4 @@ control shift w cerrar pestaña de terminal
 windows + "1,2,3,4,5,6,7,8,9,0" cambiar de escritorio
 windows + shift + "1,2,3,4,5,6,7,8,9,0" cambiar de escritorio la ventana actual al escritorio seleccionado
 ============================================================================================================
-````
+```

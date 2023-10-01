@@ -24,7 +24,7 @@ bspc rule -a Screenkey manage=off
 
 
 # WALLPAPER
-feh --bg-fill ~/Wallpaper/s4vitar.png
+feh --bg-fill ~/Wallpaper/Fondo.jpg
 
 # POLYBAR
 ~/.config/polybar/launch.sh
@@ -34,6 +34,10 @@ bspc config focus_follows_pointer true
 
 # PICOM
 picom &
-bspc config border_width 0
+bspc config border_width 2
+
+bspc config active_border_color '#a486dd'
+bspc config normal_border_color '#fe8019'
+bspc config focused_border_color '#a486dd'
 
 xsetroot -cursor_name left_ptr &

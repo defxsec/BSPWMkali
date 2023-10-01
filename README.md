@@ -20,7 +20,7 @@ rofi-theme-selector
 ```
 
 <p align="center">
-    <img src=![Alt text](image-3.png)>
+    <img src="![Alt text](image-3.png)">
 </p>
 
 ```bash

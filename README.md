@@ -17,8 +17,10 @@ chmod +x install.sh
 
 ````bash
 rofi-theme-selector
+```
 
 ![Alt text](image-3.png)
+
 rounded-purple-dark
 
 Alt-a

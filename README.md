@@ -19,11 +19,14 @@ chmod +x install.sh
 rofi-theme-selector
 ```
 
-<img ![Alt text](image-3.png)>
+<p align="center">
+    <img src=![Alt text](image-3.png)>
+</p>
 
+```bash
 rounded-purple-dark
-
 Alt-a
+```
 
 Este Script esta diseñado solo para funcionar en Kali Linux
 

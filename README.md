@@ -13,7 +13,7 @@ chmod +x install.sh
 ./install.sh
 ```
 
-Este Script esta diseñado para solo funcionar en Kali Linux
+Este Script esta diseñado solo para funcionar en Kali Linux
 
 # Shortcuts
 

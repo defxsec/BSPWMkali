@@ -1,20 +1,17 @@
 ![Alt text](image.png)
 
-# Script-Kali
+# Uso del Script
 
 1.- Uso del Script
 
-https://github.com/xJackSx/BSPWMkali.git
-
+```bash
+git clone https://github.com/defxsec/BSPWMkali.git
 cd BSPWMkali
-
 chmod +x install.sh
-
 ./install.sh
+```
 
-Buenas compañeros,
-
-Este Script esta diseñado para los que usan Kali Linux.
+Este Script esta diseñado para solo funcionar en Kali Linux
 
 2.- Wallpaper
 

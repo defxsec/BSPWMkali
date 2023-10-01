@@ -30,8 +30,10 @@ UNA MENCION HONORIFICA A Mr. Pr1ngl3s, por su gran colaboración.
 
 UN GRAN SALUDO A NUESTRO GRAN AMIGO S4VITAR.
 
-Shortcuts
+# shortcuts
 
+```bash
+===========================================================================================================
 windows + enter abre terminal
 windows + w cierra terminal
 windows + d abre el buscador de aplicaciones
@@ -44,3 +46,5 @@ control shift alt t renombrar pestaña de terminal
 control shift w cerrar pestaña de terminal
 windows + "1,2,3,4,5,6,7,8,9,0" cambiar de escritorio
 windows + shift + "1,2,3,4,5,6,7,8,9,0" cambiar de escritorio la ventana actual al escritorio seleccionado
+============================================================================================================
+```

@@ -30,7 +30,7 @@ UNA MENCION HONORIFICA A Mr. Pr1ngl3s, por su gran colaboración.
 
 UN GRAN SALUDO A NUESTRO GRAN AMIGO S4VITAR.
 
-shortcuts
+Shortcuts
 
 ===========================================================================================================
 windows + enter abre terminal

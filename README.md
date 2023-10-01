@@ -19,7 +19,7 @@ chmod +x install.sh
 rofi-theme-selector
 ```
 
-![Alt text](image-3.png)
+<img ![Alt text](image-3.png)>
 
 rounded-purple-dark
 

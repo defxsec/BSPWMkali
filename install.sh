@@ -135,6 +135,9 @@ rofi-theme-selector
 rm -rf ~/github
 rm -rfv $ruta
 
+# Instalamos Net-tools
+sudo apt install net-tools
+
 # Mensaje de Instalado
 
 notify-send "BSPWM INSTALADO"

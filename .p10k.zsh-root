@@ -1647,3 +1647,6 @@ typeset -g POWERLEVEL9K_CONFIG_FILE=${${(%):-%x}:a}
 
 (( ${#p10k_config_opts} )) && setopt ${p10k_config_opts[@]}
 'builtin' 'unset' 'p10k_config_opts'
+
+#Nos permite cambiar el icono del sistema operativo en este caso a KALI LINUX
+typeset -g POWERLEVEL9K_OS_ICON_CONTENT_EXPANSION=%B$'\uF327 '

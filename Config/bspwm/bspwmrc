@@ -37,7 +37,9 @@ picom &
 bspc config border_width 2
 
 bspc config active_border_color '#a486dd'
+#bspc config active_border_color '#8e24aa'
 bspc config normal_border_color '#fe8019'
-bspc config focused_border_color '#a486dd'
+#bspc config focused_border_color '#a486dd'
+bspc config focused_border_color '#8e24aa'
 
 xsetroot -cursor_name left_ptr &

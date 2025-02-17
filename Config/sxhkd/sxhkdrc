@@ -4,7 +4,7 @@
 
 # terminal emulator
 super + Return
-	/opt/kitty/bin/kitty
+	/usr/bin/kitty
 
 # program launcher
 super + d

@@ -109,6 +109,7 @@ element-text {
     horizontal-align:               0;
     vertical-align:                 0;
     margin:                         2px 0px 2px 2px;
+    text-color:                 inherit;
 }
 
 element normal.urgent,

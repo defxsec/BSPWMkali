@@ -1,11 +1,15 @@
 /* Color-Scheme For All Themes*/
 
 * {
-    background:    #ffffffff;
+    /*# Color de fondo del panel (System-Logout-Restart-Shutdown)*/
+    background:    #444853;
     background-alt:    #ffffffff;
-    foreground:    #606060ff;
-    border:    #5895DCff;
-    selected:    #5895DCff;
+    /*Color de System*/
+    foreground:    #ffffffff;
+    /*Quitamos el borde de System*/ 
+    /*border:    #5895DCff;*/
+    /*Color de Seleccion de Logout-Restart-Shutdown*/
+    selected:    #a400a4;
     urgent:    #EC407Aff;
 	logo:    #EC407Aff;
 	on:    #61C766ff;

@@ -134,6 +134,7 @@ sudo chmod +x /usr/local/bin/screenshot
 
 # Configuramos el Tema de Rofi
 
+[[ -n "$DISPLAY" && -z "$WAYLAND_DISPLAY" ]] || exit 0
 rofi-theme-selector
 
 # Removiendo Repositorio

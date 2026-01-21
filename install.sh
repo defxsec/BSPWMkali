@@ -21,7 +21,7 @@ sudo apt install -y meson libxext-dev libxcb1-dev libxcb-damage0-dev libxcb-xfix
 
 # Instalamos paquetes adionales
 
-sudo apt install -y kitty feh scrot scrub rofi xclip bat locate ranger fastfetch wmname acpi bspwm sxhkd imagemagick
+sudo apt install -y kitty feh scrot scrub rofi xclip bat locate ranger fastfetch wmname acpi bspwm sxhkd imagemagick xserver-xorg-video-all xserver-xorg-input-all
 
 # Creando carpeta de Reposistorios
 
